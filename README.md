@@ -1,14 +1,15 @@
 # Hi there, I'm Gabriel Gondim! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Mobile+Developer;Full+Stack+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate developer from Brazil 🇧🇷 who believes in finding the best solution to daily problems. With a strong focus on building scalable applications, I enjoy working across the entire stack - from crafting intuitive user interfaces to designing robust backend systems.
+I'm a passionate **Mobile Developer** from Brazil 🇧🇷 who believes in finding the best solution to daily problems. While mobile development is my primary expertise, I'm equally enthusiastic about **full-stack development** - building complete solutions from crafting intuitive mobile interfaces to designing robust backend systems and web applications.
 
-- 🔭 Currently working on innovative projects including **Gestor Lente** and **Mercury Modules**
+- 📱 Specialized in **Mobile Development** with React Native
+- 💻 Passionate about **Full Stack Development** (Frontend, Backend, and everything in between)
 - 🌱 Constantly learning and exploring new technologies
 - 💡 Love turning ideas into reality through code
 - 🎯 Goal: Build impactful applications that solve real-world problems
