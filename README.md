@@ -22,10 +22,15 @@ Case studies and the full history are on the portfolio.
 
 ## Public code
 
-Client work stays in private repositories. These two are public:
-
 - [Portfolio](https://github.com/GGVidal/my-portfolio) — the site above, built with Next.js
 - [English Stream](https://github.com/GGVidal/EnglishStream_mobile) — Expo app for language learning
+
+## Private collaboration
+
+I also collaborate on private repositories:
+
+- **Cryf Sistemas** — inventory, lens management (Gestor Lentes), NFS-e invoicing, and Fala Aquiraz
+- **Forge** — ArtBeast mobile app and API
 
 ## Stack
 
