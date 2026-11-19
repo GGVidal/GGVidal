@@ -22,6 +22,7 @@ Case studies and the full history are on the portfolio.
 
 ## Public code
 
+- [OpenIDEA](https://github.com/l0ng-ai/openidea) — open-source Rust + Tauri IDE; recent work includes plugin JVM `vmOptions` (API 1.14), Build tool window visibility settings, lightweight Open in New Window, and editor/terminal fixes
 - [Portfolio](https://github.com/GGVidal/my-portfolio) — the site above, built with Next.js
 - [English Stream](https://github.com/GGVidal/EnglishStream_mobile) — Expo app for language learning
 
